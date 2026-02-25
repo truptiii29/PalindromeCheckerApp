@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/B2P14_RA2411003011660/B2P14_RA2411003011660.iml" filepath="$PROJECT_DIR$/B2P14_RA2411003011660/B2P14_RA2411003011660.iml" />
       <module fileurl="file://$PROJECT_DIR$/BP21_RA2411003012155.iml" filepath="$PROJECT_DIR$/BP21_RA2411003012155.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../B2P14_RA2411003011660/B2P14_RA2411003011660/Palindrome Checker aAp.iml" filepath="$PROJECT_DIR$/../B2P14_RA2411003011660/B2P14_RA2411003011660/Palindrome Checker aAp.iml" />
     </modules>
   </component>
 </project>
